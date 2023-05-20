@@ -99,22 +99,22 @@ export default function Home() {
         </a>
         <a href="" className='bg-white/5 p-3 flex flex-col gap-2 rounded hover:bg-white/10 w-56 mx-auto'>
           <Image src="/album.jpg" className='w-full rounded-md' width={104} height={104} alt="Capa Guns N' Roses"/>
-          <strong className='font-semibold '>Daily Mix 1</strong>
+          <strong className='font-semibold '>Daily Mix 2</strong>
           <span className='text-sm text-zinc-400'>Guns n' Roses, Bon Jovi, Abba and more</span>
         </a>
         <a href="" className='bg-white/5 p-3 flex flex-col gap-2 rounded hover:bg-white/10 w-56 mx-auto'>
           <Image src="/album.jpg" className='w-full rounded-md' width={104} height={104} alt="Capa Guns N' Roses"/>
-          <strong className='font-semibold '>Daily Mix 1</strong>
+          <strong className='font-semibold '>Daily Mix 3</strong>
           <span className='text-sm text-zinc-400'>Guns n' Roses, Bon Jovi, Abba and more</span>
         </a>
         <a href="" className='bg-white/5 p-3 flex flex-col gap-2 rounded hover:bg-white/10 w-56 mx-auto'>
           <Image src="/album.jpg" className='w-full rounded-md' width={104} height={104} alt="Capa Guns N' Roses"/>
-          <strong className='font-semibold '>Daily Mix 1</strong>
+          <strong className='font-semibold '>Daily Mix 4</strong>
           <span className='text-sm text-zinc-400'>Guns n' Roses, Bon Jovi, Abba and more</span>
         </a>
         <a href="" className='bg-white/5 p-3 flex flex-col gap-2 rounded hover:bg-white/10 w-56 mx-auto'>
           <Image src="/album.jpg" className='w-full rounded-md' width={104} height={104} alt="Capa Guns N' Roses"/>
-          <strong className='font-semibold '>Daily Mix 1</strong>
+          <strong className='font-semibold '>Daily Mix 5</strong>
           <span className='text-sm text-zinc-400'>Guns n' Roses, Bon Jovi, Abba and more</span>
         </a>
       </div>
